@@ -10,7 +10,7 @@ let barraNavegador = document.querySelector('nav');
 
 window.addEventListener('scroll', function () {
     if (window.pageYOffset > 100) {
-        barraNavegador.classList.add('bg-dark', 'shador')
+       barraNavegador.classList.add('bg-dark', 'shador')
     }
     else {
         barraNavegador.classList.remove('bg-dark', 'shador')
