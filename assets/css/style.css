@@ -23,10 +23,12 @@ h1 {
     background-color: aqua;
 }
 
+
 .tarjeta {
     background-color: aqua;
     color: white;
     border: 1px solid white;
+    margin: 2%;
 }
 
 .tarjeta img {
