@@ -6,10 +6,6 @@ body {
     color: white;
 }
 
-#navbar {
-    background-color: aqua;
-}
-
 h1 {
     text-align: center;
 }
@@ -20,7 +16,7 @@ h1 {
     font-size: 25px;
     display: inline-block;
     vertical-align: middle;
-     background-color: aqua;
+    background-color: aqua;
 }
 
 .tarjeta {
@@ -44,4 +40,3 @@ footer {
     background-color: aqua;
     font-size: 25px;
 }
-
